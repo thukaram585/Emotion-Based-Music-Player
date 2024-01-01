@@ -1,1 +1,2 @@
 # Emotion-Based-Music-Player
+The goal of this work is to build an emotion-detecting system that can analyze the basic facial expressions of humans. In this project, a method is presented for mood detection based on humans' facial emotions. The proposed method used the human face to identify the mood of that human, and finally, using this result, played the audio file that related to the human’s emotion.
